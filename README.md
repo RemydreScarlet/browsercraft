@@ -4,7 +4,7 @@
 
 Thanks to [Cheerpj](https://cheerpj.com), this project runs an alpha version of Minecraft (1.2.5) on the browser, without the requirement of having the JVM locally installed on the computer.
 
-See [the website](https://browsercraft.cheerpj.com) for a live demo and more information.
+See [the website](https://browsercraft.cheerpj.com) for a live demo and more information
 
 ## Notes
 Since this is a demo the playing time is restricted to 3 minutes; see [here](https://www.minecraft.net) for the full game.
